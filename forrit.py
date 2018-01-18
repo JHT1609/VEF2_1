@@ -15,7 +15,7 @@ def about():
 def about():
     return "<h2> Contact us </h2>"
 
-@route('/users')
+@route('/user')
 def about():
     return "<h2> Users </h2>"
 
